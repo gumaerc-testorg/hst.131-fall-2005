@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-131-introduction-to-neuroscience-fall-2005/c3574dfaed29c79f2471fd752c0b27a8_APSim.sit
+file: /media/courses/hst-131-introduction-to-neuroscience-fall-2005/c3574dfaed29c79f2471fd752c0b27a8_APSim.sit
 file_type: application/x-stuffit
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: APSim.sit
 uid: c3574dfa-ed29-c79f-2471-fd752c0b27a8

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Homework problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-131-introduction-to-neuroscience-fall-2005/ae8e48486c62b3c52265fcf4ee6fcd9d_problem_set_1.pdf
+file: /media/courses/hst-131-introduction-to-neuroscience-fall-2005/ae8e48486c62b3c52265fcf4ee6fcd9d_problem_set_1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: problem_set_1.pdf
 uid: ae8e4848-6c62-b3c5-2265-fcf4ee6fcd9d
