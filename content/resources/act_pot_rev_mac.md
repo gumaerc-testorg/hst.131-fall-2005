@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fee06d83-03c9-b786-8e11-c2e90cff3829
 resourcetype: Document
 title: act_pot_rev_mac.pdf
 uid: b090e47b-1b26-0119-dd6e-656c799662fc

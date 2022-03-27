@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ac53434e-8778-0ce2-a6c9-11e8fe849a07
 resourcetype: Document
 title: ansshtneuro_exam.pdf
 uid: 1cdd39c4-89bd-4a73-597e-aa1c9e646e08

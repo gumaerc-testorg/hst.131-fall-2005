@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fee06d83-03c9-b786-8e11-c2e90cff3829
 resourcetype: Document
 title: eskandar_handout.pdf
 uid: db75ae9e-1927-7c0a-c0d1-61256fe96803

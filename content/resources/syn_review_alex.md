@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fee06d83-03c9-b786-8e11-c2e90cff3829
 resourcetype: Document
 title: syn_review_alex.pdf
 uid: 59d02a25-9846-9d92-b578-3ba7eb417410
