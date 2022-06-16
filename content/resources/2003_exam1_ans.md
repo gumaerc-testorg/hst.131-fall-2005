@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/hst-131-introduction-to-neuroscience-fall-2005/9c8141a39a98f5163c7ad37c5b4c8f5c_2003_exam1_ans.pdf
+file: /courses/hst-131-introduction-to-neuroscience-fall-2005/9c8141a39a98f5163c7ad37c5b4c8f5c_2003_exam1_ans.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams

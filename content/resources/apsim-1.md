@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/hst-131-introduction-to-neuroscience-fall-2005/c3574dfaed29c79f2471fd752c0b27a8_APSim.sit
+file: /courses/hst-131-introduction-to-neuroscience-fall-2005/c3574dfaed29c79f2471fd752c0b27a8_APSim.sit
 file_type: application/x-stuffit
 learning_resource_types:
 - Assignments
