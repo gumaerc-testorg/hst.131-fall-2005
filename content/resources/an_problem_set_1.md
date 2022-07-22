@@ -5,6 +5,7 @@ file: /courses/hst-131-introduction-to-neuroscience-fall-2005/d66cb61c2fcd1beadd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: an_problem_set_1.pdf
 uid: d66cb61c-2fcd-1bea-dd2b-5a655613191b
 ---
 Solutions to assigned homework problems.
-

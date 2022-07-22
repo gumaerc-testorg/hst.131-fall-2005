@@ -5,6 +5,7 @@ file: /courses/hst-131-introduction-to-neuroscience-fall-2005/c2099dffe2ab76fcc1
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

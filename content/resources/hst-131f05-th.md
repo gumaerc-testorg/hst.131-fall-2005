@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Photo of a human brain.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-131f05-th.jpg
 uid: da60ea89-7ff7-9741-178a-6ef3bafa9bdb
 ---
 New image Upload
-

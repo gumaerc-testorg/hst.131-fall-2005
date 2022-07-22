@@ -5,6 +5,7 @@ file: /courses/hst-131-introduction-to-neuroscience-fall-2005/1cdd39c489bd4a7359
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ansshtneuro_exam.pdf
 uid: 1cdd39c4-89bd-4a73-597e-aa1c9e646e08
 ---
 Practice exam.
-
