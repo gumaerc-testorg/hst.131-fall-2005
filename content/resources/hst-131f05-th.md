@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/hst-131-introduction-to-neuroscience-fall-2005/da60ea897ff79741178a6ef3bafa9bdb_hst-131f05-th.jpg
+file_size: 9392
 file_type: image/jpeg
 image_metadata:
   caption: The human brain. (Image courtesy of the [National Institutes of Health](http://www.nih.gov/).
