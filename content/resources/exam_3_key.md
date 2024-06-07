@@ -2,6 +2,7 @@
 content_type: resource
 description: Exam problems with answer key.
 file: /courses/hst-131-introduction-to-neuroscience-fall-2005/c1a349aeb37ebb78aad7172adb8033c1_exam_3_key.pdf
+file_size: 90401
 file_type: application/pdf
 learning_resource_types:
 - Exams

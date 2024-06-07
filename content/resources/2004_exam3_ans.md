@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to practice exam problems.
 file: /courses/hst-131-introduction-to-neuroscience-fall-2005/3a3fe2a80672407e73c2d630265bb0d3_2004_exam3_ans.pdf
+file_size: 80641
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: Review notes. (Courtesy of Dr. Emad Eskandar. Used with permission.)
 file: /courses/hst-131-introduction-to-neuroscience-fall-2005/db75ae9e19277c0ac0d161256fe96803_eskandar_handout.pdf
+file_size: 240901
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
