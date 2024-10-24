@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice exam.
-file: /courses/hst-131-introduction-to-neuroscience-fall-2005/1cdd39c489bd4a73597eaa1c9e646e08_ansshtneuro_exam.pdf
+file: /ol-ocw-studio-app/courses/hst-131-introduction-to-neuroscience-fall-2005/1cdd39c489bd4a73597eaa1c9e646e08_ansshtneuro_exam.pdf
 file_size: 85636
 file_type: application/pdf
 learning_resource_types:
