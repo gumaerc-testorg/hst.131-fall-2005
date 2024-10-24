@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework problems.
-file: /courses/hst-131-introduction-to-neuroscience-fall-2005/ae8e48486c62b3c52265fcf4ee6fcd9d_problem_set_1.pdf
+file: /ol-ocw-studio-app/courses/hst-131-introduction-to-neuroscience-fall-2005/ae8e48486c62b3c52265fcf4ee6fcd9d_problem_set_1.pdf
 file_size: 81722
 file_type: application/pdf
 learning_resource_types:
