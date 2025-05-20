@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/hst-131-introduction-to-neuroscience-fall-2005/da60ea897ff79741178a6ef3bafa9bdb_hst-131f05-th.jpg
+file: /courses/hst-131-introduction-to-neuroscience-fall-2005/da60ea897ff79741178a6ef3bafa9bdb_hst-131f05-th.jpg
 file_size: 9392
 file_type: image/jpeg
 image_metadata:

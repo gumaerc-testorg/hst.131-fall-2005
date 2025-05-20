@@ -5,7 +5,7 @@ description: 'Problem Set 1 supporting file: IV simulation for Lab View Run Time
   Must be in same folder as lvrt.dll.
 
   For PCs. (Courtesy of Dr. David Corey. Used with permission.)'
-file: /ol-ocw-studio-app/courses/hst-131-introduction-to-neuroscience-fall-2005/0d5e8302a120bf5a93663bd84f60ab23_IV.exe
+file: /courses/hst-131-introduction-to-neuroscience-fall-2005/0d5e8302a120bf5a93663bd84f60ab23_IV.exe
 file_size: 130234
 file_type: application/x-ms-dos-executable
 learning_resource_types:
