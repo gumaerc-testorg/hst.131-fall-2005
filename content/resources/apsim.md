@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/hst-131-introduction-to-neuroscience-fall-2005/c2099dffe2ab76fcc1eb4fbc7cf0f175_APSim.zip
+file: /courses/hst-131-introduction-to-neuroscience-fall-2005/c2099dffe2ab76fcc1eb4fbc7cf0f175_APSim.zip
 file_size: 496516
 file_type: application/zip
 learning_resource_types:

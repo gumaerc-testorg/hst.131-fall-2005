@@ -5,7 +5,7 @@ description: 'IVVG.exe simulation for Lab View Run Time.
   Must be in same folder as lvrt.dll.
 
   For PCs. (Courtesy of Dr. David Corey. Used with permission.)'
-file: /ol-ocw-studio-app/courses/hst-131-introduction-to-neuroscience-fall-2005/941cd0a5318643771638c5b9ca5e9ebe_IVVG.exe
+file: /courses/hst-131-introduction-to-neuroscience-fall-2005/941cd0a5318643771638c5b9ca5e9ebe_IVVG.exe
 file_size: 177214
 file_type: application/x-ms-dos-executable
 learning_resource_types:

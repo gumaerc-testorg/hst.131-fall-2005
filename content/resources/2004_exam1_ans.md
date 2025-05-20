@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to practice exam problems.
-file: /ol-ocw-studio-app/courses/hst-131-introduction-to-neuroscience-fall-2005/21eedb3e1628a4e9b3726ab9e22dae8c_2004_exam1_ans.pdf
+file: /courses/hst-131-introduction-to-neuroscience-fall-2005/21eedb3e1628a4e9b3726ab9e22dae8c_2004_exam1_ans.pdf
 file_size: 158324
 file_type: application/pdf
 learning_resource_types:

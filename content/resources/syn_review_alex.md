@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review presentation. (Courtesy of Carson Alexis Goddard. Used with permission.)
-file: /ol-ocw-studio-app/courses/hst-131-introduction-to-neuroscience-fall-2005/59d02a2598469d92b5783ba7eb417410_syn_review_alex.pdf
+file: /courses/hst-131-introduction-to-neuroscience-fall-2005/59d02a2598469d92b5783ba7eb417410_syn_review_alex.pdf
 file_size: 214247
 file_type: application/pdf
 learning_resource_types: []
