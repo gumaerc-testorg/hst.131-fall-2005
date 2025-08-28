@@ -2,7 +2,7 @@
 content_type: resource
 description: Review presentation with one review problem. (Courtesy of Bryan McIver
   Hooks. Used with permission.)
-file: /courses/hst-131-introduction-to-neuroscience-fall-2005/b090e47b1b260119dd6e656c799662fc_act_pot_rev_mac.pdf
+file: /ol-ocw-studio-app/courses/hst-131-introduction-to-neuroscience-fall-2005/b090e47b1b260119dd6e656c799662fc_act_pot_rev_mac.pdf
 file_size: 105296
 file_type: application/pdf
 learning_resource_types: []
